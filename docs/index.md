@@ -1,8 +1,14 @@
 # Short bio
 
-I am currently a PhD Student at Université de Lorraine (Nancy, France) since January 2021. I am focusing on Statistics and Machine Learning, and especially time series analysis. My supervisors are Pr. Marianne Clausel and Dr. Konstantin Usevich. Before that, I obtained a BS degree in Mathematics from Sorbonne Université (Paris, France) and a MS degree in Applied Mathematics and Statistics also from Sorbonne Université.
+I am currently a PhD Student in the [IECL](https://iecl.univ-lorraine.fr/home/) lab at [Université de Lorraine](https://www.univ-lorraine.fr/en/) (Nancy, France) since January 2021. I am focusing on Statistics and Machine Learning, and especially time series analysis. My advisors are [Pr. Marianne Clausel](https://sites.google.com/site/marianneclausel/) and [Dr. Konstantin Usevich](http://w3.cran.univ-lorraine.fr/konstantin.usevich). Before that, I obtained a BS degree in Mathematics from Sorbonne Université (Paris, France) and a MS degree in Applied Mathematics and Statistics also from Sorbonne Université.
+
+# Research interests
+
+I am working on the use of the signature, a tool from rough paths theory, for time series analysis and statistical learning. This tool extract intrinsic information about a multidimensional time series and more precisely the dependencies in variations along the space dimensions. Find [here](https://arxiv.org/abs/1603.03788) an introduction to this tool.
 
 # Talks
+
+Work in progress .
 
 <!-- - June 2022. Oral presentation at GDR TRAG annual conference in Nanterre, France. [Conference website](https://trag2022.sciencesconf.org/).
 - June 2022. 15 min oral presentation at 53th _Journées de Statistiques de la Société Française de Statistique_ in Lyon, France. Title: Barycenters of time series: a new approach with the signature method. [Conference website](https://jds22.sciencesconf.org/).
@@ -12,7 +18,44 @@ I am currently a PhD Student at Université de Lorraine (Nancy, France) since Ja
 
 # Conference proceedings
 
+# Teaching
+
 # Softwares
+
+<!-- # Awards and grants
+
+- 2022 Japanese Society for the Promotion of Science (JSPS) fellowship for research in Japan. I have been working for two months at JAMSTEC Research Institute for Global Change in collaboration with Dr. Nozomi Sugiura. <https://www.jamstec.go.jp/rigc/e/> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
