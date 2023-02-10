@@ -8,10 +8,12 @@ I am working on the use of the signature, a tool from rough paths theory, for ti
 
 # Talks
 
-- September 2022. GRETSI 28th _Colloque Francophone de Traitement du Signal et des Images_. Nancy, France. [(website)](http://gretsi.fr/colloque2022/)
-- August 2022. _Journées MAS (Modélisation, Aléatoire et Statistique)_ annual conference. Rouen, France. [(website)](https://mas2022.sciencesconf.org/)
-- June 2022. 53th _Journées de Statistique de la Société Française de Statistique_. Lyon, France. [(website)](https://jds22.sciencesconf.org/)
-- June 2022. GDR TRAG annual conference. Nanterre, France. [(website)](https://trag2022.sciencesconf.org/)
+-   January 2023. Seminar at University Grenoble-Alpes, LIG, APTIKAL research group. Grenoble, France. [(website)](https://www.liglab.fr/en/research/research-teams/aptikal). Hosted by [Dr. Emilie Devijver](http://ama.liglab.fr/~devijvee/).
+-   September 2022. Annual conference GRETSI 28th _Colloque Francophone de Traitement du Signal et des Images_. Nancy, France. [(website)](http://gretsi.fr/colloque2022/)
+-   August 2022. Bi-annual conference _Journées MAS (Modélisation, Aléatoire et Statistique)_. Rouen, France. [(website)](https://mas2022.sciencesconf.org/)
+-   June 2022. Annual conference 53th _Journées de Statistique de la Société Française de Statistique_. Lyon, France. [(website)](https://jds22.sciencesconf.org/)
+-   June 2022. Annual conference GDR TRAG. Nanterre, France. [(website)](https://trag2022.sciencesconf.org/)
+-   May 2022. Bi-weekly seminar at CRAN, Simul research group. Nancy, France. [(website)](https://cran-simul.github.io/)
 
 
 
