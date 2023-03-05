@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Raphael Mignot"
+---
+
 # Short bio
 
 I am a PhD Student in the [IECL](https://iecl.univ-lorraine.fr/home/) lab at [Université de Lorraine](https://www.univ-lorraine.fr/en/) (Nancy, France) since January 2021. I am focusing on Statistics and Machine Learning, and especially time series analysis. My advisors are [Pr. Marianne Clausel](https://sites.google.com/site/marianneclausel/) and [Dr. Konstantin Usevich](http://w3.cran.univ-lorraine.fr/konstantin.usevich). Before that, I earned a BS degree in Mathematics and a MS degree in Applied Mathematics and Data Science both from Sorbonne Université (Paris, France). Moreover, through internships, I have been practicing Data Science at leading companies and research institutes.
