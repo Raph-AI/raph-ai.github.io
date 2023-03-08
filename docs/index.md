@@ -19,8 +19,7 @@ I am working on the use of the signature, a tool from rough paths theory, for ti
 -   June 2022. Annual conference 53th _Journées de Statistique de la Société Française de Statistique_. Lyon, France. [(website)](https://jds22.sciencesconf.org/)
 -   June 2022. Annual conference GDR TRAG. Nanterre, France. [(website)](https://trag2022.sciencesconf.org/)
 -   May 2022. Bi-weekly seminar at CRAN, Simul research group. Nancy, France. [(website)](https://cran-simul.github.io/)
-
-
+-   December 2021. Conference GDR TRAG Young researchers meeting. Paris, France. [(website)](https://young-trag-2021.sciencesconf.org/)
 
 ---
 
