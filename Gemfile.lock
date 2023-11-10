@@ -270,9 +270,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-remote-theme
-  jekyll-seo-tag
-  jekyll-sitemap
+  jekyll-theme-minimal
 
 BUNDLED WITH
    2.4.22
