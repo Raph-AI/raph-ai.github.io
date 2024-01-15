@@ -11,30 +11,33 @@ I am a PhD Student in the [IECL](https://iecl.univ-lorraine.fr/home/) lab at [Un
 
 I am working on the use of the signature, a tool from rough paths theory, for time series analysis and statistical learning. This tool extract intrinsic information about multidimensional time series and more precisely the dependencies in variations along the space dimensions. Find [here](https://arxiv.org/abs/1603.03788) an introduction to this tool.
 
+# News
+
+-   **April 2024:** Workshop [Mathematics of data streams: signatures, neural differential equations, and diffusion models](https://raph-ai.github.io/sig-workshop-greifswald-2024/) in Greifswald, Germany !
+
 # Talks
 
+-   **2023/12  Seminar:** Signature, applications and Machine Learning [(website)](https://sites.google.com/view/sign-ml-pau-2023/programme#h.4v8rr21b4l0j). University of Pau and the Adour Region. Pau, France.
+-   **2023/11 Group seminar.** University of British Columbia, Dpt. Mathematics. Vancouver, Canada.
+-   **2023/11 Probability & Stat. Seminar** [(website)](https://probstat-seminar.uni.lu/) Univ. Luxembourg, Dpt. Mathematics. Luxembourg.
+-   **2023/10 Workshop:** Mathematical Founding Principles of AI [(website)](https://www.dataia.eu/evenements/workshop-fondements-mathematiques-de-lia) Sorbonne University.
+-   **2023/09 Lorraine - Luxembourg Workshop** in Probability and Statistics [(website)](https://sites.google.com/view/l2workshop#h.9sq94iec6l85). University of Lorraine & University of Luxembourg.
+-   **2023/07 Group seminar** [(website)](https://eric.msh-lse.fr/07-07-23-seminaire-de-raphael-mignot-averaging-time-series-a-new-approach-with-the-signature-method/). University Lyon 2. Data Science Lab (ERIC). Lyon, France.
+-   **2023/06 GDR TRAG** (Research group on Rough Paths) [(website)](https://trag2023.sciencesconf.org/program). Paris Dauphine University.
+-   **2023/01 Group seminar.** University Grenoble--Alpes, Computer Sc. Lab (LIG). Grenoble, France.
+-   **2022/09 Annual national conference:** 28th GRETSI (Signal and Image Processing) [(website)](https://gretsi.fr/colloque2022/myGretsi/programme.php#:~:text=de%20la%20signature-,Raphael%20MIGNOT,-%2C%20Konstantin%20USEVICH%2C%20Marianne). France.
+-   **2022/08 Annual national conference:** MAS (Modeling, Stochastic and Statistics) [(website)](https://mas2022.sciencesconf.org/resource/page/id/3#:~:text=Fichier%20de%20pr%C3%A9sentation-,Rapha%C3%ABl%20Mignot%2C,-IECL%2C%20Universit%C3%A9%20de). France.
+-   **2022/07 Group seminar.** Japan Agency for Marine-Earth Science and Technology. Tokyo, Japan.
+-   **2022/06 Annual national conference:** French Statistics Society [(website)](https://jds22.sciencesconf.org/). France.
 
--   October 2023. Annual seminar: Mathematical Founding Principles of AI [(website)](https://dataia.eu/evenements/workshop-fondements-mathematiques-de-lia). Invitation: [Pr. Emilie Chouzenoux](https://pages.saclay.inria.fr/emilie.chouzenoux/). Paris, France.
--   September 2023. Annual seminar: 2nd Lorraine-Luxembourg Workshop in Probability and Statistics​ [(website)](https://sites.google.com/view/l2workshop). Metz, France. Invitation: [Pr. Nabil Kazi-Tani](https://sites.google.com/site/nabilkazitani/).
--   July 2023. Seminar at University Lyon 2. ERIC lab [(website)](https://eric.msh-lse.fr/07-07-23-seminaire-de-raphael-mignot-averaging-time-series-a-new-approach-with-the-signature-method/). Lyon, France. Invitation: [Pr. Jairo Cugliari](https://cugliari.github.io/website/).
--   June 2023. Annual conference: GDR TRAG (Rough paths) [(website)](https://trag2023.sciencesconf.org/). Paris, France. Invitation: [Pr. Antoine Lejay](https://orcid.org/0000-0003-0406-9550).
--   January 2023. Seminar at University Grenoble-Alpes, LIG, APTIKAL research group [(website)](https://www.liglab.fr/en/research/research-teams/aptikal). Grenoble, France. Invitation: [Pr. Emilie Devijver](http://ama.liglab.fr/~devijvee/).
--   September 2022. Annual conference: 28th GRETSI (Signal and image processing) [(website)](http://gretsi.fr/colloque2022/). Nancy, France. 
--   August 2022. Bi-annual conference: _Journées MAS_ (Modeling, Stochastic and Statistics) [(website)](https://mas2022.sciencesconf.org/). Rouen, France.
--   June 2022. Annual conference: 53th JDS (French Statistics Society) [(website)](https://jds22.sciencesconf.org/). Lyon, France.
--   June 2022. Annual conference: GDR TRAG (Rough Paths) [(website)](https://trag2022.sciencesconf.org/). Nanterre, France.
--   May 2022. Bi-weekly seminar at CRAN Laboratory, Simul research group (Signal processing) [(website)](https://cran-simul.github.io/). Nancy, France.
--   December 2021. Conference: GDR TRAG Young researchers meeting (Rough paths) [(website)](https://young-trag-2021.sciencesconf.org/). Paris, France.
+# Publications
 
----
-
-Work in progress.
-
----
-
-# Conference proceedings
-
-# Journal articles
+-   J. Cugliari, E. Devijver, A. Meynaoui, and R. Mignot, "Some recent developments on functional data
+analysis," in *ESAIM: Proceedings and Surveys*, EDP Sciences, 2024, to appear.
+-   R. Mignot, M. Clausel, and K. Usevich, "Principal geodesic analysis for time series encoded with
+signature features," preprint [hal-04392568](https://hal.science/hal-04392568), 2024. [Software.](https://github.com/Raph-AI/pga-signature)
+-   M. Clausel, J. Diehl, R. Mignot, L. Schmitz, N. Sugiura, and K. Usevich, "The barycenter in free
+nilpotent Lie groups and its application to iterated-integrals signatures", preprint [arXiv:2305.18996](https://arxiv.org/abs/2305.18996), 2023. [Software.](https://github.com/diehlj/free-nilpotent-lie-group-barycenter)
 
 # Teaching
 
@@ -47,13 +50,11 @@ Work in progress.
 
 # Softwares
 
-
+See Software links in publications.
 
 <!-- # Awards and grants
 
 - 2022 Japanese Society for the Promotion of Science (JSPS) fellowship for research in Japan. I have been working for two months at JAMSTEC Research Institute for Global Change in collaboration with Dr. Nozomi Sugiura. <https://www.jamstec.go.jp/rigc/e/> -->
-
-
 
 
 
