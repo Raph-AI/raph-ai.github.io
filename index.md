@@ -41,12 +41,14 @@ nilpotent Lie groups and its application to iterated-integrals signatures", prep
 
 # Teaching
 
+-   2022 - 2024 : **Data Analysis** (Tutorials, 25h each year). Ecole des Mines de Nancy. Level: Graduate. *Topics: R, Linear models, Principal Component Analysis, Factor analysis, Classification, Linear discriminant analysis, Logistic regression, Association rule learning.*  
+-   2021 - 2024 : **Probability and Statistics** (Tutorials, 20h each year). University of Lorraine. Level: Graduate. *Topics: Point estimation, Confidence intervals, Hypothesis testing (parametric tests, two-sample tests, chi-square tests), Python.*
+
 <!-- ## 2022-2023
 
 ## 2021-2022
 
 ## Supervision -->
-
 
 # Softwares
 
