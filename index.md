@@ -15,29 +15,32 @@ I am working on the use of the signature, a tool from rough paths theory, for ti
 
 -   **April 2024:** Workshop [Mathematics of data streams: signatures, neural differential equations, and diffusion models](https://raph-ai.github.io/sig-workshop-greifswald-2024/) in Greifswald, Germany !
 
+# Publications
+
+-   R. Mignot, V. Mange, K. Usevich, M. Clausel, J.-Y. Tourneret and F. Vincent, "Anomaly Detection Using Multiscale Signatures". In: Proceedings EUSIPCO 2024, to appear. [Software.](https://github.com/Raph-AI/anomaly-detection)
+-   J. Cugliari, E. Devijver, A. Meynaoui, and R. Mignot, "Some recent developments on functional data analysis". In: *ESAIM: Proceedings and Surveys*, EDP Sciences, 2024, to appear. 
+-   R. Mignot, M. Clausel, K. Usevich and N. Sugiura, "Principal geodesic analysis for time series encoded with signature features." Preprint [hal-04392568](https://hal.science/hal-04392568), 2024. [Software.](https://github.com/Raph-AI/pga-signature)
+-   M. Clausel, J. Diehl, R. Mignot, L. Schmitz, N. Sugiura, and K. Usevich, "The barycenter in free nilpotent Lie groups and its application to iterated-integrals signatures". In: SIAM Journal on Applied Algebra and Geometry 8.3 (2024), pp.519-552. [DOI: 10.1137/23M159024X](https://doi.org/10.1137/23M159024X). [Software.](https://github.com/diehlj/free-nilpotent-lie-group-barycenter)
+
+
 # Talks
 
+-   **2024/08 Conference:** EUSIPCO 2024 [(website)](https://eusipcolyon.sciencesconf.org/). Lyon, France.
+-   **2024/04 Workshop:** Mathematics of data streams. [(website)](https://raph-ai.github.io/sig-workshop-greifswald-2024/). Greifswald, Germany. 
 -   **2023/12  Seminar:** Signature, applications and Machine Learning [(website)](https://sites.google.com/view/sign-ml-pau-2023/programme#h.4v8rr21b4l0j). University of Pau and the Adour Region. Pau, France.
 -   **2023/11 Group seminar.** University of British Columbia, Dpt. Mathematics. Vancouver, Canada.
 -   **2023/11 Probability & Stat. Seminar** [(website)](https://probstat-seminar.uni.lu/) Univ. Luxembourg, Dpt. Mathematics. Luxembourg.
 -   **2023/10 Workshop:** Mathematical Founding Principles of AI [(website)](https://www.dataia.eu/evenements/workshop-fondements-mathematiques-de-lia) Sorbonne University.
 -   **2023/09 Lorraine - Luxembourg Workshop** in Probability and Statistics [(website)](https://sites.google.com/view/l2workshop#h.9sq94iec6l85). University of Lorraine & University of Luxembourg.
 -   **2023/07 Group seminar** [(website)](https://eric.msh-lse.fr/07-07-23-seminaire-de-raphael-mignot-averaging-time-series-a-new-approach-with-the-signature-method/). University Lyon 2. Data Science Lab (ERIC). Lyon, France.
--   **2023/06 GDR TRAG** (Research group on Rough Paths) [(website)](https://trag2023.sciencesconf.org/program). Paris Dauphine University.
+-   **2023/06 Workshop** GDR TRAG (Research group on Rough Paths) [(website)](https://trag2023.sciencesconf.org/program). Paris Dauphine University.
 -   **2023/01 Group seminar.** University Grenoble--Alpes, Computer Sc. Lab (LIG). Grenoble, France.
--   **2022/09 Annual national conference:** 28th GRETSI (Signal and Image Processing) [(website)](https://gretsi.fr/colloque2022/myGretsi/programme.php#:~:text=de%20la%20signature-,Raphael%20MIGNOT,-%2C%20Konstantin%20USEVICH%2C%20Marianne). France.
--   **2022/08 Annual national conference:** MAS (Modeling, Stochastic and Statistics) [(website)](https://mas2022.sciencesconf.org/resource/page/id/3#:~:text=Fichier%20de%20pr%C3%A9sentation-,Rapha%C3%ABl%20Mignot%2C,-IECL%2C%20Universit%C3%A9%20de). France.
+-   **2022/09 Conference:** 28th GRETSI (Signal and Image Processing) [(website)](https://gretsi.fr/colloque2022/myGretsi/programme.php#:~:text=de%20la%20signature-,Raphael%20MIGNOT,-%2C%20Konstantin%20USEVICH%2C%20Marianne). France.
+-   **2022/08 Conference:** MAS (Modeling, Stochastic and Statistics) [(website)](https://mas2022.sciencesconf.org/resource/page/id/3#:~:text=Fichier%20de%20pr%C3%A9sentation-,Rapha%C3%ABl%20Mignot%2C,-IECL%2C%20Universit%C3%A9%20de). France.
 -   **2022/07 Group seminar.** Japan Agency for Marine-Earth Science and Technology. Tokyo, Japan.
--   **2022/06 Annual national conference:** French Statistics Society [(website)](https://jds22.sciencesconf.org/). France.
+-   **2022/06 Conference:** French Statistics Society [(website)](https://jds22.sciencesconf.org/). France.
 
-# Publications
 
--   J. Cugliari, E. Devijver, A. Meynaoui, and R. Mignot, "Some recent developments on functional data
-analysis," in *ESAIM: Proceedings and Surveys*, EDP Sciences, 2024, to appear.
--   R. Mignot, M. Clausel, and K. Usevich, "Principal geodesic analysis for time series encoded with
-signature features," preprint [hal-04392568](https://hal.science/hal-04392568), 2024. [Software.](https://github.com/Raph-AI/pga-signature)
--   M. Clausel, J. Diehl, R. Mignot, L. Schmitz, N. Sugiura, and K. Usevich, "The barycenter in free
-nilpotent Lie groups and its application to iterated-integrals signatures", preprint [arXiv:2305.18996](https://arxiv.org/abs/2305.18996), 2023. [Software.](https://github.com/diehlj/free-nilpotent-lie-group-barycenter)
 
 # Teaching
 
