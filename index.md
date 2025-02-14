@@ -13,7 +13,7 @@ I am working on the use of the signature, a tool from rough paths theory, for ti
 
 # News
 
--   **October 2024:** 🎉 PhD defended successfully ! The manuscript is available in English at <https://theses.fr/2024LORR0165>.
+-   **October 2024:** 🎉 PhD defended successfully ! The manuscript is available in English at <https://theses.fr/2024LORR0165> (pdf [here](https://theses.fr/api/v1/document/2024LORR0165)).
 -   **April 2024:** 🤓 Workshop "Mathematics of data streams: signatures, neural differential equations, and diffusion models" [(website)](https://raph-ai.github.io/sig-workshop-greifswald-2024/) in Greifswald, Germany !
 
 # Publications
