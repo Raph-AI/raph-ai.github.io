@@ -13,11 +13,12 @@ I am working on the use of the signature, a tool from rough paths theory, for ti
 
 # News
 
--   **April 2024:** Workshop [Mathematics of data streams: signatures, neural differential equations, and diffusion models](https://raph-ai.github.io/sig-workshop-greifswald-2024/) in Greifswald, Germany !
+-   **October 2024:** 🎉 PhD defended successfully ! The manuscript is available in English at <https://theses.fr/2024LORR0165>.
+-   **April 2024:** 🤓 Workshop "Mathematics of data streams: signatures, neural differential equations, and diffusion models" [(website)](https://raph-ai.github.io/sig-workshop-greifswald-2024/) in Greifswald, Germany !
 
 # Publications
 
--   R. Mignot, V. Mange, K. Usevich, M. Clausel, J.-Y. Tourneret and F. Vincent, "Anomaly Detection Using Multiscale Signatures". In: Proceedings EUSIPCO 2024, to appear. [Software.](https://github.com/Raph-AI/anomaly-detection)
+-   R. Mignot, V. Mange, K. Usevich, M. Clausel, J.-Y. Tourneret and F. Vincent, "Anomaly Detection Using Multiscale Signatures". In: Proceedings of the 32nd European Signal Processing Conference (EUSIPCO), 2024, pp.2757-2761. [DOI: 10.23919/EUSIPCO63174.2024.10714963](https://doi.org/10.23919/EUSIPCO63174.2024.10714963). [PDF](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0002757.pdf). [Software.](https://github.com/Raph-AI/anomaly-detection)
 -   J. Cugliari, E. Devijver, A. Meynaoui, and R. Mignot, "Some recent developments on functional data analysis". In: *ESAIM: Proceedings and Surveys*, EDP Sciences, 2024, to appear. 
 -   R. Mignot, M. Clausel, K. Usevich and N. Sugiura, "Principal geodesic analysis for time series encoded with signature features." Preprint [hal-04392568](https://hal.science/hal-04392568), 2024. [Software.](https://github.com/Raph-AI/pga-signature)
 -   M. Clausel, J. Diehl, R. Mignot, L. Schmitz, N. Sugiura, and K. Usevich, "The barycenter in free nilpotent Lie groups and its application to iterated-integrals signatures". In: SIAM Journal on Applied Algebra and Geometry 8.3 (2024), pp.519-552. [DOI: 10.1137/23M159024X](https://doi.org/10.1137/23M159024X). [Software.](https://github.com/diehlj/free-nilpotent-lie-group-barycenter)
@@ -55,7 +56,7 @@ I am working on the use of the signature, a tool from rough paths theory, for ti
 
 # Softwares
 
-See Software links in publications.
+See Software links in the publication section above 👆.
 
 <!-- # Awards and grants
 
